@@ -1,0 +1,16 @@
+#pane{
+        -fx-background-image: url("/images/background2.jpg");
+        -fx-background-repeat: stretch;
+        -fx-background-size: 600 700;
+        -fx-background-position: center center;
+        -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
+#logoHeader{
+        -fx-background-image: url("/images/logo.png");
+        -fx-background-repeat: stretch;
+        -fx-background-size: 200 100;
+        -fx-background-position: center center;
+        -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+
+
+}
